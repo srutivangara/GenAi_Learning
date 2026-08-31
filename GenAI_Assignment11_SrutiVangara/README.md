@@ -1,4 +1,3 @@
-````markdown id="58321"
 # Healthcare Diabetes Data Visualization
 
 ## Introduction
