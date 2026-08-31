@@ -1,0 +1,10 @@
+import numpy as np
+marks = np.array([78,85,90,66,72,88,95,60])
+p = np.sort(marks)
+print("Sorted array:",p)
+print("25th percentile:",np.percentile(p,25))
+print("50th percentile:",np.percentile(p,50))
+print("75th percentile:",np.percentile(p,75))
+average = np.mean(marks)
+count = np.sum(marks > average)
+print("Number of students scoring above average:", count)

@@ -1,0 +1,7 @@
+import numpy as np
+values = np.array([2,4,6,8,10])
+print("Square root:",np.sqrt(values))
+print("Exponential:",np.exp(values))
+print("Logarithm:",np.log(values))
+print("Sum of all elements:",np.sum(values))
+print("Cumulative sum:",np.cumulative_sum(values))
