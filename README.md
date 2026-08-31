@@ -1,5 +1,16 @@
 # 🤖 Generative AI Learning Journey
 
+# GenAI Learning
+
+My Generative AI learning journey through assignments, exercises, experiments, and practical implementations.
+
+<a href="https://github.com/srutivangara/GenAi_Learning">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=srutivangara&repo=GenAi_Learning&theme=tokyonight"
+    alt="GenAI Learning Repository"
+  />
+</a>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-Learning-blueviolet?style=for-the-badge&logo=openai" alt="Generative AI">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python">
