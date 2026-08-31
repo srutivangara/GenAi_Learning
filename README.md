@@ -59,10 +59,6 @@ Generative-AI-Assignments/
 └── README.md
 ```
 
----
-> More assignments will be added as I progress through the course.
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
@@ -77,4 +73,6 @@ Generative-AI-Assignments/
 
 </p>
 
+---
+> More assignments will be added as I progress through the course.
 ---
